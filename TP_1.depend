@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1491490669 source:c:\users\fernando\ref\tp1\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+
+1491486064 c:\users\fernando\ref\tp1\tp_1\proto.h
+
+1491491550 source:c:\users\fernando\ref\tp1\tp_1\imp.c
+	<stdio.h>
+	<stdlib.h>
+
