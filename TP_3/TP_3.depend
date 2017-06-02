@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1496411781 source:c:\users\alumno\desktop\tp_3\imp.c
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+	<string.h>
+
+1496417223 c:\users\alumno\desktop\tp_3\proto.h
+
+1496408361 source:c:\users\alumno\desktop\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+	<string.h>
+
+1496442806 source:c:\users\fernando\ref\facu\lab1\tps\tp_3\imp.c
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+	<string.h>
+
+1496442061 c:\users\fernando\ref\facu\lab1\tps\tp_3\proto.h
+
+1496442525 source:c:\users\fernando\ref\facu\lab1\tps\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"proto.h"
+	<string.h>
+
